@@ -1,0 +1,5 @@
+#!/bin/sh -e
+echo "----------------------------------"
+sudo rm -f /etc/X11/xorg.conf.d/99-calibration.conf
+sudo rm -f /usr/share/X11/xorg.conf.d/99-fbturbo.conf
+echo "Enabled HDMI"

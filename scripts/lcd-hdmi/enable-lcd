@@ -1,0 +1,5 @@
+#!/bin/sh -e
+echo "----------------------------------"
+sudo cp etc/99-calibration.conf /etc/X11/xorg.conf.d/99-calibration.conf
+sudo cp usr/99-fbturbo.conf /usr/share/X11/xorg.conf.d/99-fbturbo.conf
+echo "Enabled LCD"

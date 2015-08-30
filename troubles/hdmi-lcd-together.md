@@ -1,6 +1,6 @@
 # HDMI & LCD Together
 
 After installing the LCD drivers, the GUI will not work on HDMI monitor anymore.
-To fix this, I wrote a script which will detect if the HDMI monitor is connected or not.
+To fix this, I wrote some scripts to detect if the HDMI monitor is connected or not.
 
-***Coming soon!!!!***
+Check the [`scripts/lcd-hdmi`](/scripts/lcd-hdmi) directory.

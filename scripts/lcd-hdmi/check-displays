@@ -53,6 +53,6 @@ else
      echo '|`-----------` |/ /~/'
      echo ' ~~~~~~~~~~~~~~~ / /'
      echo '                 ~~'
-     sudo ./enable-hdmi
+     sudo ./enable-lcd
 fi
 echo '----------------------------------'

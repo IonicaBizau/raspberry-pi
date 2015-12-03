@@ -22,20 +22,20 @@
     "pi"
   ],
   "blah": {
-      "description": [
-          {
-              "h2": "Contents"
-          },
-          {
-              "ol": [
-                "[Hardware](/story/1. Hardware.md)",
-                "[OS Installation](/story/2. OS Installation.md)",
-                "[LCD Screen Drivers Installation.md](/story/3. LCD Screen Drivers Installation.md)",
-                "[Set up audio.md](/story/4. Set up audio.md)",
-                "[Installing Node.js](/story/5. Installing Node.js.md)",
-                "[Watching YouTube videos](/story/6. Watching YouTube videos.md)"
-              ]
-          }
-      ]
+    "description": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ol": [
+          "[Hardware](/story/1. Hardware.md)",
+          "[OS Installation](/story/2. OS Installation.md)",
+          "[LCD Screen Drivers Installation.md](/story/3. LCD Screen Drivers Installation.md)",
+          "[Set up audio.md](/story/4. Set up audio.md)",
+          "[Installing Node.js](/story/5. Installing Node.js.md)",
+          "[Watching YouTube videos](/story/6. Watching YouTube videos.md)"
+        ]
+      }
+    ]
   }
 }

@@ -2,7 +2,7 @@
   "name": "raspberry-pi",
   "version": "1.0.0",
   "description": "My Raspberry Pi 2 story–progress, news, questions etc. :eyes: Watch the repository to get notifications.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -37,5 +37,16 @@
         ]
       }
     ]
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }

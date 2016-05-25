@@ -1,4 +1,7 @@
-# raspberry-pi [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/raspberry-pi.svg)](https://www.npmjs.com/package/raspberry-pi) [![Downloads](https://img.shields.io/npm/dt/raspberry-pi.svg)](https://www.npmjs.com/package/raspberry-pi) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+
+# raspberry-pi
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/raspberry-pi.svg)](https://www.npmjs.com/package/raspberry-pi) [![Downloads](https://img.shields.io/npm/dt/raspberry-pi.svg)](https://www.npmjs.com/package/raspberry-pi) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > My Raspberry Pi 2 story–progress, news, questions etc. :eyes: Watch the repository to get notifications.
 
@@ -11,10 +14,12 @@
  5. [Installing Node.js](/story/5. Installing Node.js.md)
  6. [Watching YouTube videos](/story/6. Watching YouTube videos.md)
 
-## How to contribute
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## License
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

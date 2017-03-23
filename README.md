@@ -14,6 +14,7 @@
  5. [Installing Node.js](/story/5. Installing Node.js.md)
  6. [Watching YouTube videos](/story/6. Watching YouTube videos.md)
 
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
